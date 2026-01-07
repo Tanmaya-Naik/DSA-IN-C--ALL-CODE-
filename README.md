@@ -28,8 +28,6 @@ The goal is not memorization, but **clear thinking, pattern recognition, and alg
 - Hashing  
 - Two Pointers  
 - Sliding Window  
-- Prefix / Suffix Techniques  
-- Dynamic Programming  
 - Greedy  
 - Searching & Sorting  
 
